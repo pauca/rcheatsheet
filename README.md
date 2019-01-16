@@ -1,20 +1,25 @@
 # rcheatsheet
 Yet another R Cheatsheet
 
-## General
-
 Better layout of multiplots
 
 * https://cran.r-project.org/web/packages/gridExtra/vignettes/
 * https://github.com/baptiste/egg
 
-## Bioinformatics
+* https://renkun-ken.github.io/rlist/
+
+Tables
+
+* https://haozhu233.github.io/kableExtra/
 
 Plotting
 
-* https://github.com/wilkox/gggenes
-* https://github.com/wilkox/ggfittext
+* https://ggplot2.tidyverse.org/reference/theme.html ggplot theme documentation
+* https://github.com/wilkox/gggenes add gene information to a plot
+* https://github.com/wilkox/ggfittext 
+* https://rpkgs.datanovia.com/ggpubr/index.html publication ready plots
 
 Data Reading
 
-* bed: https://valr.hesselberthlab.org/
+* bed,bedGraph https://valr.hesselberthlab.org/
+* vcf https://knausb.github.io/vcfR_documentation/quick_intro.html, https://grunwaldlab.github.io/Population_Genetics_in_R/reading_vcf.html
