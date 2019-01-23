@@ -1,12 +1,15 @@
 # rcheatsheet
 Yet another R Cheatsheet
 
-Better layout of multiplots
+Data Reading/Wrangling
 
-* https://cran.r-project.org/web/packages/gridExtra/vignettes/
-* https://github.com/baptiste/egg
+* readr, data.table::fread
+* bed,bedGraph https://valr.hesselberthlab.org/
+* vcf https://knausb.github.io/vcfR_documentation/quick_intro.html, https://grunwaldlab.github.io/Population_Genetics_in_R/reading_vcf.html
+* big files  https://privefl.github.io/bigreadr/index.html
+* csv to sqlite https://privefl.github.io/bigreadr/articles/csv2sqlite.html
 
-* https://renkun-ken.github.io/rlist/
+* regex https://github.com/rstudio/cheatsheets/blob/master/strings.pdf
 
 Tables
 
@@ -18,8 +21,16 @@ Plotting
 * https://github.com/wilkox/gggenes add gene information to a plot
 * https://github.com/wilkox/ggfittext 
 * https://rpkgs.datanovia.com/ggpubr/index.html publication ready plots
+* https://omarwagih.github.io/ggseqlogo/ sequence logos
 
-Data Reading
+Better layout of multiplots
 
-* bed,bedGraph https://valr.hesselberthlab.org/
-* vcf https://knausb.github.io/vcfR_documentation/quick_intro.html, https://grunwaldlab.github.io/Population_Genetics_in_R/reading_vcf.html
+* https://cran.r-project.org/web/packages/gridExtra/vignettes/
+* https://github.com/baptiste/egg
+
+* https://renkun-ken.github.io/rlist/
+
+
+Performance
+
+* https://cran.r-project.org/web/packages/future/vignettes/future-1-overview.html
