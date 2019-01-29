@@ -34,3 +34,8 @@ Better layout of multiplots
 Performance
 
 * https://cran.r-project.org/web/packages/future/vignettes/future-1-overview.html
+
+
+Bioinfo links
+
+* methylationArrayAnalysis: https://master.bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html
