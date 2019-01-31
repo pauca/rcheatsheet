@@ -10,6 +10,7 @@ Data Reading/Wrangling
 * csv to sqlite https://privefl.github.io/bigreadr/articles/csv2sqlite.html
 
 * regex https://github.com/rstudio/cheatsheets/blob/master/strings.pdf
+* https://renkun-ken.github.io/rlist/
 
 Tables
 
@@ -22,14 +23,11 @@ Plotting
 * https://github.com/wilkox/ggfittext 
 * https://rpkgs.datanovia.com/ggpubr/index.html publication ready plots
 * https://omarwagih.github.io/ggseqlogo/ sequence logos
-
+* https://cran.r-project.org/web/packages/BoutrosLab.plotting.general/vignettes/PlottingGuide.pdf  Seamless, automated and interactive visualization of scientific data
 Better layout of multiplots
 
 * https://cran.r-project.org/web/packages/gridExtra/vignettes/
 * https://github.com/baptiste/egg
-
-* https://renkun-ken.github.io/rlist/
-
 
 Performance
 
